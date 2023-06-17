@@ -1,0 +1,19 @@
+﻿@inherits LayoutComponentBase
+
+<main>
+    <nav class="navbar bg-light" dir="ltr">
+        <div class="container-fluid">
+            <a class="navbar-brand">
+                <span class="display-6">
+                    <CSLocalizer Key="internationalization"></CSLocalizer>
+                </span>
+            </a>
+            <span class="d-flex" role="search">
+                <CSSwitcher></CSSwitcher>
+            </span>
+        </div>
+    </nav>
+    <article class="content px-4">
+        @Body
+    </article>
+</main>

@@ -1,0 +1,86 @@
+[
+  {
+    "internationalization": {
+      "English": "Internationalization",
+      "Russian": "Интернационализация",
+      "Arabic": "التدويل"
+    }
+  },
+  {
+    "employee.first-name": {
+      "English": "First name",
+      "Russian": "Имя",
+      "Arabic": "الاسم الأول"
+    }
+  },
+  {
+    "employee.last-name": {
+      "English": "Last name",
+      "Russian": "Фамилия",
+      "Arabic": "الكنية"
+    }
+  },
+  {
+    "employee.job": {
+      "English": "Job",
+      "Russian": "Профессия",
+      "Arabic": "المهنة"
+    }
+  },
+  {
+    "employee.salary": {
+      "English": "Salary",
+      "Russian": "Заработная плата",
+      "Arabic": "المرتب"
+    }
+  },
+  {
+    "employee.hire-date": {
+      "English": "Hire date",
+      "Russian": "Дата приема на работу",
+      "Arabic": "تاريخ التعيين"
+    }
+  },
+  {
+    "employee.save": {
+      "English": "Save",
+      "Russian": "Сохранять",
+      "Arabic": "حفظ"
+    }
+  },
+  {
+    "employee.cancel": {
+      "English": "Cancel",
+      "Russian": "Отмена",
+      "Arabic": "إلغاء"
+    }
+  },
+  {
+    "employee.update": {
+      "English": "Update",
+      "Russian": "Редактировать",
+      "Arabic": "تحرير"
+    }
+  },
+  {
+    "employee.delete": {
+      "English": "Delete",
+      "Russian": "Удалить",
+      "Arabic": "حذف"
+    }
+  },
+  {
+    "employee.employees": {
+      "English": "Employees",
+      "Russian": "Сотрудники",
+      "Arabic": "الموظفين"
+    }
+  },
+  {
+    "employee.add-employee": {
+      "English": "Add Employee",
+      "Russian": "Добавить сотрудника",
+      "Arabic": "الرجاء إضافة موظف"
+    }
+  }
+]

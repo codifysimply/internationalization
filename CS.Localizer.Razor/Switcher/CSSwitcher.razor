@@ -1,0 +1,10 @@
+﻿@inherits CSSwitcherComponent
+
+<Select Value="@CurrentLanguage" class="form-control" @onchange="OnLanguageChange">
+    @foreach (var kvp in languages)
+    {
+        <option value="@kvp.Key" selected="@(kvp.Key == CurrentLanguage)">
+            @kvp.Value
+        </option>
+    }
+</Select>
